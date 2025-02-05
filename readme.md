@@ -4,6 +4,22 @@
 
 Sail the seas, fight pirates, and uncover treasures.
 
+
+### Credits :
+Assets:
+https://assetstore.unity.com/packages/p/low-poly-medieval-ship-266731
+https://assetstore.unity.com/packages/p/low-poly-tree-pack-57866
+https://assetstore.unity.com/packages/p/low-poly-tree-pack-57866
+https://assetstore.unity.com/packages/p/low-poly-tropical-island-lite-242437
+https://assetstore.unity.com/packages/p/handpainted-grass-ground-textures-187634
+
+Sounds:
+freesound_community on pixabay - https://pixabay.com/users/freesound_community-46691455/
+freesound_community on pixabay - https://pixabay.com/sound-effects/sailboat-cockpit-at-12kn-wind-speed-17465/
+
+Code:
+floating logic : https://www.youtube.com/watch?v=iasDPyC0QOg&list=PLOs-8muQh1HJgavxDcyUYFM0BMJJh1_Vh 
+
 ### Premise 
 ___
 In this top down PC game - the player will sail the seas and travel the map, while traveling he will encounter hostile pirates that want to steal his gold. Fight the pirates and find more gold! The player will be able to upgrade the ship when entering docks. 
