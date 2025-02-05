@@ -1,6 +1,6 @@
 # TideBreak
 
-[Link to itch.io](https://daniel-work-gh.itch.io/tidebreak-v2).
+[Link to itch.io](https://daniel-work-gh.itch.io/tidebreak).
 
 Sail the seas, fight pirates, and uncover treasures.
 
