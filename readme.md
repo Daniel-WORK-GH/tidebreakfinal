@@ -6,19 +6,29 @@ Sail the seas, fight pirates, and uncover treasures.
 
 
 ### Credits :
-Assets:
+#### Assets:
+
 https://assetstore.unity.com/packages/p/low-poly-medieval-ship-266731
+
 https://assetstore.unity.com/packages/p/low-poly-tree-pack-57866
+
 https://assetstore.unity.com/packages/p/low-poly-tree-pack-57866
+
 https://assetstore.unity.com/packages/p/low-poly-tropical-island-lite-242437
+
 https://assetstore.unity.com/packages/p/handpainted-grass-ground-textures-187634
 
-Sounds:
+
+#### Sounds:
+
 freesound_community on pixabay - https://pixabay.com/users/freesound_community-46691455/
+
 freesound_community on pixabay - https://pixabay.com/sound-effects/sailboat-cockpit-at-12kn-wind-speed-17465/
 
-Code:
+#### Code:
+
 floating logic : https://www.youtube.com/watch?v=iasDPyC0QOg&list=PLOs-8muQh1HJgavxDcyUYFM0BMJJh1_Vh 
+
 
 ### Premise 
 ___
